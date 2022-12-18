@@ -1,1 +1,2 @@
-# Curso_Java
+## Curso Java
+Repositório para as atividades do curso de java
